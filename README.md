@@ -546,11 +546,3 @@ The most important outcome is not simply maximizing Accuracy. The proposed syste
 
 This makes the model suitable as a foundation for a human-centered academic decision-support system in which predictions help advisors identify students who may need timely support.
 
----
-
-## Author
-
-**Samaher S. Alsharif**  
-M.Sc. in Data Science  
-
-GitHub: https://github.com/AlsharifSamaher1d
